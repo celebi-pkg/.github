@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, welcome to Kaya Celebi's code space!
 
 <!--
 
