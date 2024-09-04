@@ -4,7 +4,7 @@ This organization serves to maintain some of the large-scale projects that I hav
 
 ## riscv-assembler ⚙️ ([PyPI](https://pypi.org/project/riscv-assembler/))
 
-A Python package designed to aid in debugging assembly code. Allows for users to translate assembly code to binary in a variety of formats. See [documentation](https://www.riscvassembler.org) for more info.
+A Python package designed to aid in debugging assembly code. Allows for users to translate assembly code to binary in a variety of formats. See [documentation](https://celebi-pkg.github.io/riscv-assembler/) for more info.
 
 ## flight-analysis ✈️ ([PyPI](https://pypi.org/project/google-flight-analysis/))
 
